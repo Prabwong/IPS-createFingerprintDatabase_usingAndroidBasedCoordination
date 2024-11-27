@@ -46,10 +46,3 @@ This is an Android application designed for collecting indoor positioning system
    - Permissions for accessing Wi-Fi and location data.  
 
 ---
-
-## Getting Started  
-
-### Clone the Repository  
-```bash  
-git clone https://github.com/yourusername/IPS-Data-Collector.git  
-cd IPS-Data-Collector  
